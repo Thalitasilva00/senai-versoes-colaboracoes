@@ -1,0 +1,16 @@
+cd C:\Users\Front-End_6\Desktop\_git\senai-versoes-colaboracoes
+git status
+git clone http://github.com/jansen-killinger-cara/senai-versoes-colaboracoes
+git commit -m 
+git status
+git add .
+git status
+git add .
+git status
+git commit -m "atualizei o arquivo Comando_Hoje.txt
+git push -u origin
+git pull
+git pull --force
+git remote -v
+git submodule add https://github:/jansen-killinger-cara/senai-versoes-colaboracoes.git
+doskey /h >comando_Hoje.txt
