@@ -18,3 +18,10 @@ git add .
 git commit -m "Alterando arquivos"
 git push -u origin
 doskey /h >meuscomandos.txt
+git add .
+git commit -m "criei meus comandos"
+git push -u origin
+git tag -a v1.0 -m "minha primeira tag"
+Git tag -a v1.1 -m "minha primeira tag"
+git push -u origin --tag
+doskey /h >meuscomandos.txt
