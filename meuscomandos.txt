@@ -1,0 +1,20 @@
+cd C:\Users\Front-End_6\Desktop\_git\senai-versoes-colaboracoes\senai-versoes-colaboracoes
+git checkout master
+git checkout -help
+git checkout master
+git checkout main
+git push -u origin
+git add .
+git status
+dir
+git status
+git push -u origin
+git remote -v
+cd..
+git remote -v
+git push -u origin
+git push --set-upstream origin tarefa/minha-primeira-branch
+git add .
+git commit -m "Alterando arquivos"
+git push -u origin
+doskey /h >meuscomandos.txt
