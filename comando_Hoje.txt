@@ -13,4 +13,4 @@ git pull
 git pull --force
 git remote -v
 git submodule add https://github:/jansen-killinger-cara/senai-versoes-colaboracoes.git
-doskey /h >comando_Hoje.txt
+doskey /h >comando_Hoje
